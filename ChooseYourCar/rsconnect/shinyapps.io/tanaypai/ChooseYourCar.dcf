@@ -1,0 +1,13 @@
+name: ChooseYourCar
+title: ChooseYourCar
+username:
+account: tanaypai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5188122
+bundleId: 5284281
+url: https://tanaypai.shinyapps.io/ChooseYourCar/
+when: 1637668144.55407
+lastSyncTime: 1637668144.55407
+asMultiple: FALSE
+asStatic: FALSE
