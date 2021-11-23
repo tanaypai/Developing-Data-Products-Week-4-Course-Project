@@ -1,8 +1,7 @@
 Choose Your Car
 ========================================================
-author: Tanay Pai
-date: November 23, 2021
-autosize: true
+Tanay Pai
+November 23, 2021
 
 Introduction
 ========================================================
